@@ -1,7 +1,7 @@
 # nraizada1.github.io
 
 html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -99,7 +99,6 @@ html
     </script>
 </body>
 </html>
-```
 
 ### Explanation:
 - **Deduction**: ₹75,000 is deducted from the entered income before tax calculation.
